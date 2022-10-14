@@ -1,0 +1,7 @@
+{
+    "id": "skaffold",
+    "version": "1.0.0",
+    "name": "skaffold",
+    "description": "Installs the skaffold cli deployment tool",
+    "documentationURL": "https://github.com/fromz/devcontainer-skaffold/blob/master/README.md"
+}
